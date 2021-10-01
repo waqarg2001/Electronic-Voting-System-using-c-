@@ -50,6 +50,6 @@
 - Run the .sln file. 
 
 
-## *Following are **FEW** pictures of the project.*
+## *Project Report Link (inludes project screenshots).*
 
 
