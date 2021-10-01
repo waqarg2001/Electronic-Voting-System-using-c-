@@ -52,4 +52,4 @@
 
 ## *Project Report Link (inludes project screenshots).*
 
-
+https://github.com/waqarg2001/Electronic-Voting-System-using-c-/blob/master/REPORT_ELECTRONIC_VOTING.pdf
