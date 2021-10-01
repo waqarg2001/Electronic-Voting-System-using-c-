@@ -1,6 +1,6 @@
 # **Electronic-Voting-System-Using-C#-Project**
 
-## *Second semester project, built using C# Forms on Visual Studio*
+## *Second semester project, built using C# Windows Forms on Visual Studio*
 
 1- Electronic voting system with good user interface.
 
