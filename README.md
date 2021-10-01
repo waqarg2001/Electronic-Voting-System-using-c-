@@ -47,7 +47,7 @@
 
 - Extract Files.
 
-- Run the .sln file. 
+- Run the .sln file using Visual Studio. 
 
 
 ## *Project Report Link (inludes project screenshots).*
