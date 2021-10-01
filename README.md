@@ -27,7 +27,7 @@
 
 - Very effective to elect candidates for any position.
 
-## *Pre-requisites for running on your personal PC*
+## *Pre-requisites for running on your PC*
 
 - Install Microsoft SQL Server Management 2019
 
